@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About Doug
+title: About Me
 permalink: /about/
 tags: about
 ---
 
 Douglas is a nice guy and this is his blog!
-([@4lpine](https://twitter.com/4lpine)).
+([See Portfolio](https://issuu.com/douglasvaleirolopes/docs/portfolio_online)).
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
 
 Thanks to the following:
 
