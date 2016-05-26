@@ -11,7 +11,4 @@ Douglas is a nice guy and this is his blog!
 
 Thanks to the following:
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+* [Facebook](https://www.facebook.com/douglas.lopes.3154?ref=bookmarks)
