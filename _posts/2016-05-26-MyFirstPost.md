@@ -1,5 +1,8 @@
-#Hey, this is my first post!
+---
+layout: post
+tittle: Hey, this is my first post!
+---
 
-## Here is an image!
+## Here`s an image!
 
-![] (/images/logo.png)
+![](/images/logo.png)
