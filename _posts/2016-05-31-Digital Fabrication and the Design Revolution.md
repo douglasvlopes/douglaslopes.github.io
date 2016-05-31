@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Digital Fabrication and the Design Revolution
-date:       2016-05-31 08:00:00
+date:       2016-05-31 08:18:00
 summary:    How the digital fabrication is changing the disign process in Architecture.
 ---
 
